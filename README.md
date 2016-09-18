@@ -1,3 +1,2 @@
 # Hero Tracker
-Creates entries for hero database using AngularJS
-From project for Prime Digital Academy
+Hero database application using AngularJS from project for Prime Digital Academy
